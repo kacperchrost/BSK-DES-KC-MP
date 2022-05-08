@@ -1,0 +1,30 @@
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.csproj.AssemblyReference.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\MainWindow.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\App.g.cs
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES_MarkupCompile.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES_MarkupCompile.lref
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\bin\Debug\DES.exe.config
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\bin\Debug\DES.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\bin\Debug\DES.pdb
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\MainWindow.baml
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.g.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.Properties.Resources.resources
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.csproj.GenerateResource.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.exe
+C:\Users\kacpe\OneDrive - Politechnika Białostocka\POLITECHNIKA\VI semestr\BSK\PS\DES\BSK-DES-pre\DES\DES\obj\Debug\DES.pdb
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\bin\Debug\DES.exe.config
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\bin\Debug\DES.exe
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\bin\Debug\DES.pdb
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES_MarkupCompile.cache
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES_MarkupCompile.lref
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.g.resources
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.Properties.Resources.resources
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.exe
+C:\Users\Admin\source\repos\BSK-DES-pre\DES\DES\obj\Debug\DES.pdb
